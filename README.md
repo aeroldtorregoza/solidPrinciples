@@ -1,6 +1,8 @@
 # Implementing SOLID Principles in Object-Oriented Programming
 
 # Class Diagram
+![image](https://github.com/aeroldtorregoza/solidPrinciples/assets/143488240/dca12419-34c3-4b9e-a112-51177440766f)
+
 
 
 
